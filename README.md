@@ -1,2 +1,3 @@
-# clone-instagram-dio
-Projeto da criação de um clone da pagina inicial do Instagram 
+# Projeto de clone da pagina de login da Dio
+
+Projeto da criação de um clone da pagina de login do Instagram
